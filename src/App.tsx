@@ -180,13 +180,8 @@ export default function App() {
                   <CheckCircle2 size={18} className="text-white" />
                   <span>Проверка домашних заданий</span>
                 </li>
-                <li className="flex items-center space-x-2">
-                  <CheckCircle2 size={18} className="text-white" />
-                  <span>Сертификат по окончании</span>
-                </li>
               </ul>
               <div className="text-sm text-indigo-200">
-                При оплате через сайт вы получите фискальный чек.
               </div>
             </div>
           </div>
