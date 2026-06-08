@@ -121,7 +121,7 @@ export default function App() {
                 </div>
                 <div>
                   <h3 className="text-lg font-bold mb-1">Автор курса</h3>
-                  <p className="text-slate-600">Юлианна Бруг — эксперт в области фитнеса с многолетним опытом.</p>
+                  <p className="text-slate-600">Юлиана Бруг — эксперт в области фитнеса с многолетним опытом.</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
